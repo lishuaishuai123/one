@@ -21,4 +21,7 @@ console.log('2号同学添加内容');
 
 console.log('1号老师的修改');
 
-console.log('老师的dev工作正在进行中。。。。。。')
+console.log('老师的dev工作正在进行中。。。。。。');
+
+console.log('接着继续再dev分支上工作了，突然出现了一个紧急bug,但是dev分支上的工作进行了一半');
+console.log('dev工作完成')
