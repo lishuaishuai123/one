@@ -11,3 +11,8 @@ console.log('55555');
 console.log('我是1号老师');
 
 console.log('同学你好')
+console.log('我是2号同学');
+
+
+console.log('我是1号老师');
+console.log('老师好');
