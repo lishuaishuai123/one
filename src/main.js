@@ -8,4 +8,6 @@ console.log('33333333');
 console.log('444');
 console.log('55555');
 
-console.log('我是1号老师')
+console.log('我是1号老师');
+
+console.log('同学你好')
