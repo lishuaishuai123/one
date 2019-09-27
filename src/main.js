@@ -1,0 +1,1 @@
+console.log('主控js文件')
