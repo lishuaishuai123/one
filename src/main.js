@@ -6,4 +6,6 @@ console.log('222');
 console.log('33333333');
 
 console.log('444');
-console.log('55555')
+console.log('55555');
+
+console.log('我是2号同学')
