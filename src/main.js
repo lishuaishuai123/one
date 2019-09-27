@@ -16,3 +16,5 @@ console.log('我是2号同学');
 
 console.log('我是1号老师');
 console.log('老师好');
+
+console.log('2号同学添加内容');
